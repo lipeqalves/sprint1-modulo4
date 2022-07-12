@@ -1,0 +1,19 @@
+{
+  "name": "sprit-modulo4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LipeAlves",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.4",
+    "inquirer": "^9.0.0",
+    "inquirer-loop": "^0.3.0",
+    "readline": "^1.3.0"
+  },
+  "type": "module"
+}
