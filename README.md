@@ -3,7 +3,7 @@
 <img aling="center" olt="JAVASCRIPT" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
 <div style ="display: inline_block"><br>
-<img aling="center" olt="HTML5" src="./atividade1.png">
+<img aling="center" olt="HTML5" src="./utils/atividade1.png">
 </div>
 
 ### Para a aplicação funcionar:
